@@ -1,0 +1,136 @@
+/* div3 container */
+.div3
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width : 1196px;
+    height: 2900px;
+    /* border: 1px solid red; */
+    margin: auto;
+}
+.div3 .div3-h3 {
+    width: 240px;
+    height: 30px;
+
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 149.8%;
+    margin-top: 46px;
+
+
+    background: linear-gradient(180deg, #444BAB 0%, #3E8EBC 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.div3-1{
+
+    width: 1016px;
+    height: 161px;
+    display: flex;
+    margin-top: 52px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #B2CCE3;
+}
+.div3-1-1
+{
+
+    display: flex;
+    flex-direction: column;
+    width: 869px;
+    height: 66px;
+    /* border: 1px solid red; */
+}
+.div3-1-1 h3{
+    
+    /* border: 1px solid red; */
+    width: 1016px;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 22px;
+    text-align: center;
+    color: #6C6C6C;
+}
+.div3-2
+{
+    width: 1016px;
+    height : 2800px;
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    
+}
+.oh
+{
+    margin-top: 43px;
+    margin-bottom: 22px;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 149.8%;
+    color: #272834;
+    height: 36px;
+}
+.op
+{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 149.8%;
+    color: #505050;
+}
+.ol
+{
+    font-weight: 580;
+    font-size: 22px;
+    line-height: 149.8%;
+    color: #505050;
+}
+.div3-2-1
+{
+    margin-left: 30px;
+}
+.div3-3
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    /* border: 1px solid red; */
+
+}
+.div3-3 img
+{
+    width: 55px;
+    height: 55px;
+    margin:10px
+}
+
+.div3-4
+{
+    width: 1116px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 58px;
+    /* border: 1px solid red; */
+}
+.rectangle11
+{
+    width: 203px;
+    height: 30px;
+    background: #61A2C8;
+    border-radius: 20.9653px;
+    transform: rotate(0.28deg);
+}
+.rectangle11 h5
+{
+    position : relative;
+    width: 128px;
+    height: 24px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #FFFFFF;
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 35px;
+}
