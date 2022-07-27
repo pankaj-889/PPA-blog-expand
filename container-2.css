@@ -72,7 +72,7 @@
     align-self: flex-end;
 }
 .box_container-3 .one{
-    margin: 1px solid red;
+    /* margin: 1px solid red; */
     padding : 3px 7px;
     width: 203px;
     height: 30px;
